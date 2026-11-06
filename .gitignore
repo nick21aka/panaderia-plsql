@@ -1,0 +1,4 @@
+*.log
+*.pdf
+.vscode/
+Thumbs.db
